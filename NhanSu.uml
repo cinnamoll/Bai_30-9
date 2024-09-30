@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>NhanSu</OriginalElement>
+  <nodes>
+    <node x="-120.0" y="455.5">NhanSu.Student</node>
+    <node x="-117.0" y="139.5">NhanSu</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="NhanSu.Student" target="NhanSu" relationship="INNER_CLASS">
+      <point x="60.0" y="-68.5" />
+      <point x="60.0" y="424.0" />
+      <point x="28.5" y="424.0" />
+      <point x="48.5" y="104.5" />
+    </edge>
+    <edge source="NhanSu.Student" target="NhanSu" relationship="GENERALIZATION">
+      <point x="-60.0" y="-68.5" />
+      <point x="-60.0" y="424.0" />
+      <point x="-68.5" y="424.0" />
+      <point x="-48.5" y="104.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Compact" zoom="0.8291139240506329" showDependencies="false" x="269.31297709923666" y="418.21374045801525" />
+  <SelectedNodes>
+    <node>NhanSu</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+    <Category>Inner Classes</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
